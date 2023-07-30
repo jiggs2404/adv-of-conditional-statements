@@ -1,0 +1,11 @@
+.RightButton {
+    margin-left: 10%;
+}
+.LeftButton {
+    margin-right: 10%;
+}
+.q1image{
+    background-image: url(https://media.geeksforgeeks.org/wp-content/uploads/rk.png);
+    background-size: "cover";
+    height: 1000px;
+}
