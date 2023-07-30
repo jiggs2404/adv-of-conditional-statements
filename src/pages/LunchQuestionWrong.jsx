@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const LunchQuestionWrong = () => (
-  <div>
+  <div className="q5image">
     <h1>During the lunch break, if you are hungry?</h1>
     <p>Please select the correct option to proceed!</p>
     <div>

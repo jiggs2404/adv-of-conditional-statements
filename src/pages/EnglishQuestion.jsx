@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const EnglishQuestion = () => (
-  <div>
+  <div className="q4image">
     <h1>If the first class in your day is English?</h1>
     <div>
           <Link to="/englishQuestionWrong" className="LeftButton btn btn-outline-primary" role="button">I will use my Math textbook</Link>

@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const ColdQuestionWrong = () => (
-  <div>
+  <div className="q2image">
     <h1>If it is cold outside?</h1>
     <p>Please choose the correct option to move forward!</p>
     <div>

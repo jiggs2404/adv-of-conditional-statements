@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const WeekdayQuestionWrong = () => (
-  <div>
+  <div className="q1image">
     <h1>If it is a weekday</h1>
     <p>Please select the correct option to proceed!</p>
     <div>

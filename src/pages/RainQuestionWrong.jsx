@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const RainQuestionWrong = () => (
-  <div>
+  <div className="q3image">
     <h1>If it is rainy outside?</h1>
     <p>Please select the correct option to proceed!</p>
     <div>

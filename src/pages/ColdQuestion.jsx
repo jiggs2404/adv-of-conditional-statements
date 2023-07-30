@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const ColdQuestion = () => (
-  <div>
+  <div className="q2image">
     <h1>If it is cold outside?</h1>
     <div>
           <Link to="/coldQuestionWrong" className="LeftButton btn btn-outline-primary" role="button">I will not use the geyser</Link>

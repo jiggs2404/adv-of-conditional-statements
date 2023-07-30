@@ -5,7 +5,52 @@
     margin-right: 10%;
 }
 .q1image{
-    background-image: url(https://media.geeksforgeeks.org/wp-content/uploads/rk.png);
+    background-image: url(https://nationaltoday.com/wp-content/uploads/2022/05/Sun-Day-.jpg);
+    background-size: "cover";
+    height: 1000px;
+}
+.q2image{
+    background-image: url(https://media.self.com/photos/63925acb8b930311f19583e4/4:3/w_2560%2Cc_limit/AdobeStock_322765984.jpeg);
+    background-size: "cover";
+    height: 1000px;
+}
+.q3image{
+    background-image: url(https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/eeece6f94472507eff65a7277be708b6.jpg);
+    background-size: "cover";
+    height: 1000px;
+}
+.q4image{
+    background-image: url(https://www.teachhub.com/wp-content/uploads/2020/05/Classroom-Management-for-an-Effective-Learning-Environment-scaled.jpg);
+    background-size: "cover";
+    height: 1000px;
+}
+.q5image{
+    background-image: url(https://www.hrforhealth.com/hubfs/California%20Meal%20Break%20and%20Rest%20Law%20What%20You%20Need%20to%20Know%20to%20NOT%20Break%20the%20Law%20Blog.png);
+    background-size: "cover";
+    height: 1000px;
+}
+.q6image{
+    background-image: url(https://img.freepik.com/premium-photo/rain-water-drop-falling-city-street-floor-heavy-rain-day_1962-2005.jpg?w=2000);
+    background-size: "cover";
+    height: 1000px;
+}
+.q7image{
+    background-image: url(https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk3ODI4MzcxMjAyMTg4NDYw/colors-of-the-rainbow.jpg);
+    background-size: "cover";
+    height: 1000px;
+}
+.q8image{
+    background-image: url(https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/01/education_inequity_and_homework.jpg);
+    background-size: "cover";
+    height: 1000px;
+}
+.q9image{
+    background-image: url(https://thumbs.dreamstime.com/b/illustration-calligraphic-inscription-congratulations-vector-element-design-illustration-calligraphic-inscription-149833255.jpg);
+    background-size: "cover";
+    height: 1000px;
+}
+.q0image{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/542/027/non_2x/corporate-goals-mountain-challenge-vector.jpg);
     background-size: "cover";
     height: 1000px;
 }

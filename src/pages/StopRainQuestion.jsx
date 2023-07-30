@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const StopRainQuestion = () => (
-  <div>
+  <div className="q7image"> 
     <h1>If it stopped raining, and sun is out?</h1>
     <div>
           <Link to="/stopRainQuestionWrong" className="LeftButton btn btn-outline-primary" role="button">I will see dark clouds</Link>

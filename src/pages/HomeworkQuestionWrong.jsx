@@ -4,7 +4,7 @@ import React from "react";
 import './pages.css';
 import { Link } from "react-router-dom";
 const HomeworkQuestionWrong = () => (
-  <div>
+  <div className="q8image">
     <h1>If you have homework</h1>
     <p>Please select the correct option to proceed!</p>
     <div>
