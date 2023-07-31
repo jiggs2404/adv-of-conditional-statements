@@ -1,7 +1,6 @@
 {
   "name": "weather-wizards",
   "version": "0.1.0",
-  "homepage": "https://jiggs2404.github.io/adv-of-conditional-statements",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -15,7 +14,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
