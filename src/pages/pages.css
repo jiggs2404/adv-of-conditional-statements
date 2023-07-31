@@ -1,56 +1,79 @@
 .RightButton {
-    margin-left: 10%;
+    padding: 20px;
+    margin: 20px;
 }
 .LeftButton {
-    margin-right: 10%;
+    padding: 20px;
+    margin: 20px;
 }
 .q1image{
-    background-image: url(https://nationaltoday.com/wp-content/uploads/2022/05/Sun-Day-.jpg);
-    background-size: "cover";
-    height: 1000px;
+    display: grid;
+    place-items: center;
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg);
+    background-size: 100% 100%;
+    height: 1000px
 }
 .q2image{
-    background-image: url(https://media.self.com/photos/63925acb8b930311f19583e4/4:3/w_2560%2Cc_limit/AdobeStock_322765984.jpeg);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://media.istockphoto.com/id/1288526180/photo/4k-abstract-white-backgrounds.jpg?b=1&s=612x612&w=0&k=20&c=DoL2JfG_nI_UiB7RUQub2n3UDKpKJPhNhLLobJ47Flw=);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q3image{
-    background-image: url(https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/eeece6f94472507eff65a7277be708b6.jpg);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://img.freepik.com/premium-photo/abstract-white-background_476363-6571.jpg);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q4image{
-    background-image: url(https://www.teachhub.com/wp-content/uploads/2020/05/Classroom-Management-for-an-Effective-Learning-Environment-scaled.jpg);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://img.freepik.com/premium-photo/abstract-white-background-with-smooth-wavy-lines_476363-137.jpg);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q5image{
-    background-image: url(https://www.hrforhealth.com/hubfs/California%20Meal%20Break%20and%20Rest%20Law%20What%20You%20Need%20to%20Know%20to%20NOT%20Break%20the%20Law%20Blog.png);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q6image{
-    background-image: url(https://img.freepik.com/premium-photo/rain-water-drop-falling-city-street-floor-heavy-rain-day_1962-2005.jpg?w=2000);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v996-008-kroiqtdh.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=96026b35e406acc8c3517293d0a1685e);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q7image{
-    background-image: url(https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk3ODI4MzcxMjAyMTg4NDYw/colors-of-the-rainbow.jpg);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://media.istockphoto.com/id/1253186607/vector/abstract-white-gray-color-background-with-round-liquid-shape-vector-illustration.jpg?s=612x612&w=0&k=20&c=DcRAR-_TCrVIOLOkJLhsdmtNH1pUPe5I2e8Wv9ijOHg=);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q8image{
-    background-image: url(https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/01/education_inequity_and_homework.jpg);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://img.freepik.com/premium-photo/abstract-white-background-with-smooth-wavy-lines_476363-163.jpg);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q9image{
-    background-image: url(https://thumbs.dreamstime.com/b/illustration-calligraphic-inscription-congratulations-vector-element-design-illustration-calligraphic-inscription-149833255.jpg);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://img.freepik.com/free-vector/gradient-white-monochrome-background_23-2149014956.jpg);
+    background-size: 100% 100%;
     height: 1000px;
 }
 .q0image{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/000/542/027/non_2x/corporate-goals-mountain-challenge-vector.jpg);
-    background-size: "cover";
+    display: grid;
+    place-items: center;
+    background-image: url(https://www.marshallsindia.com/ImageBuckets/ItemImages/ZA%201903.jpg?id=75);
+    background-size: 100% 100%;
     height: 1000px;
+
 }
