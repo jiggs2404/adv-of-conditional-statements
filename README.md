@@ -8,6 +8,7 @@
 ```
 git clone https://github.com/jiggs2404/adv-of-conditional-statements.git
 cd adv-of-conditional-statements
+npm install
 npm start
 ```
 
